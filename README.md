@@ -1,1 +1,3 @@
-# Differential-Evolutionary-Algorithm
+## Differential Evolution and Particle Swarm Optimization for Test Functions
+
+This repository contains Python implementations of Differential Evolution (DE) and Particle Swarm Optimization (PSO) for solving two test optimization problems: the Eggholder function and the Holder Table function. The DE program optimizes these functions by generating mutant vectors, trial vectors, and performing selection across generations. The results include convergence plots showing the average and best candidate values over generations for both functions. Additionally, a PSO implementation is provided as a bonus, with similar optimization and convergence results. Experimentation with population size, generations, and other parameters is demonstrated to explore trends in optimization performance.
